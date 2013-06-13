@@ -2,6 +2,7 @@
 
 INTERVAL=1 # The speed at which you're masturbating. It depends on people and experience
 COUNT="0"  
+clear
 echo ""
 
 while true 
