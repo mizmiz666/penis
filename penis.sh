@@ -1,3 +1,4 @@
+#!/bin/bash
 # JERK OFF
 
 INTERVAL=1 # The speed at which you're masturbating. It depends on people and experience
